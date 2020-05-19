@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/guoxin1122/Fabrika/_apis/build/status/guoxin1122.pipelines-java?branchName=master)](https://dev.azure.com/guoxin1122/Fabrika/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
